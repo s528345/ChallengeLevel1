@@ -2,7 +2,8 @@
 function namelength() 
     { 
         const string = document.getElementById("length");
-        answer.innerHTML = `Number of Letters: ${string.length}`;
+        const length = string.length;
+        return answer.innerHTML = `Number of Letters: ${length}`;
     }
     
 

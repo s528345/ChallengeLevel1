@@ -1,4 +1,16 @@
 body{
+    font-size: 15px;
     float: center;
-    
+    margin-left: 600px;
+    background-color: grey;
+
+}
+#enter{
+    font-size: 25px;
+}
+#answer{
+    font-size: 25px;
+}
+input{
+    padding: 10px
 }
